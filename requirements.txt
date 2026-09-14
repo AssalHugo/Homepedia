@@ -1,7 +1,8 @@
-# Web Scraping
+# Web Scraping & Crawling
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=5.1.0
+scrapy>=2.11.0
 
 # Base de données NoSQL (MongoDB)
 pymongo>=4.6.0
