@@ -1,0 +1,16 @@
+# Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=5.1.0
+
+# Base de données NoSQL (MongoDB)
+pymongo>=4.6.0
+
+# Base de données relationnelle (PostgreSQL)
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.25
+
+# Traitement de données & utilitaires
+pandas>=2.2.0
+python-dotenv>=1.0.1
+tqdm>=4.66.0

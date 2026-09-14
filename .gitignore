@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Environment variables & secrets
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Docker & local data
+*.log
+
+# Large raw datasets (avoid git bloat)
+data/*.zip
+data/*.csv
+*.zip
